@@ -1,0 +1,15 @@
+{
+  "name": "keved-emailer",
+  "version": "1.0.0",
+  "description": "Merges values into text",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mike Whitlaw",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parser": "^2.3.2",
+    "lodash": "^4.17.15"
+  }
+}

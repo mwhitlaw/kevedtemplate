@@ -1,0 +1,6 @@
+
+First Name: ${firstName} 
+Last Name: ${lastName}
+Age: ${age}
+Age With Expression: ${age + 1}
+Conditional Expression: ${weeks} week${weeks > 1 ? 's' : ''}
