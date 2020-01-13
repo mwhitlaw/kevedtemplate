@@ -4,7 +4,7 @@ const fs = require('fs')
 const template = _.template(fs.readFileSync('template.txt', 'utf8'))
 
 const forEachMergedData = (mergedData) => {
-  // here's where process each merged data
+  // here's where you process each merged data
   console.log(mergedData)
 }
 
